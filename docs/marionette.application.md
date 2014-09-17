@@ -15,6 +15,7 @@ it to add your own functionality.
 var MyApp = new Backbone.Marionette.Application();
 ```
 
+
 ## Documentation Index
 
 * [initialize](#initialize)
